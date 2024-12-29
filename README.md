@@ -13,8 +13,8 @@ This Python script demonstrates how to visualize stock data using mplfinance wit
 #
 **1.Data Fetching:**
 
-Retrieves daily stock data for the past 400 days using the Yahoo Finance API via the yfinance library.
-Cleans and rounds the data for better readability.
+Retrieves daily stock data for the past 400 days using the Yahoo Finance API via the yfinance library.<br />
+Cleans and rounds the data for better readability.<br />
 
 **2.Extrema Identification:**
 
@@ -26,16 +26,17 @@ Calculates their positions relative to the dataset for plotting.
 Visualizes the stock data as a candlestick chart using mplfinance.
 
 **4.Overlays two trendlines:**
-One connecting the lowest price to the most recent price.
-Another connecting the highest price to the most recent price.
+
+One connecting the lowest price to the most recent price.<br />
+Another connecting the highest price to the most recent price.<br />
 Trendlines are color-coded for clarity.
 
 **5.Custom Visualization:**
 
-A clear and interactive chart with a professional style and annotations.
+A clear and interactive chart with a professional style and annotations.<br />
 
-Run the script to generate the chart for the stock of your choice.
-Modify the stocks list to analyze other stocks.
+Run the script to generate the chart for the stock of your choice.<br />
+Modify the stocks list to analyze other stocks.<br />
 
 
 
