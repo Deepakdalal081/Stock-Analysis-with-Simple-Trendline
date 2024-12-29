@@ -10,6 +10,7 @@ The script generates a candlestick chart of TCS.NS stock, highlighting key price
 This Python script demonstrates how to visualize stock data using mplfinance with additional trendline features. The code fetches historical stock data using yfinance, identifies the lowest and highest prices within the dataset, and overlays trendlines on a candlestick chart.
 #
 **Key Features:**
+#
 **1.Data Fetching:**
 
 Retrieves daily stock data for the past 400 days using the Yahoo Finance API via the yfinance library.
